@@ -1,0 +1,2 @@
+# Streamlining-MRI-Data-Processing-using-CNN
+The aim of this study was to create a deep learning model that could correctly identify four different types of brain MRI images: pituitary, meningioma, glioma, and no tumor. The ultimate goal was to develop an automated tool that would improve early brain tumor diagnosis, increase diagnostic accuracy, and possibly facilitate better treatment planning. The goal of the research was to use cutting-edge machine learning methods to overcome the difficulties associated with medical imaging picture classification.
